@@ -1,5 +1,7 @@
 # Documentation for Brain Tumor Classification Notebook
 
+To Download the Model, extract only the first part and all the parts will be extracted automatically, if all the parts are present in same folder
+
 ## Overview
 This Jupyter Notebook demonstrates the steps involved in developing a brain tumor classification model using deep learning. The notebook includes the following sections:
 
